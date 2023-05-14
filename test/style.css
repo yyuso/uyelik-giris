@@ -1,0 +1,51 @@
+.div{
+    width: 1500px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    border: solid;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background-color: skyblue;
+    background-image: url("resim.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    
+}
+.header{
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-size: 25px;
+}
+.resimboyut{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    color: white;
+}
+.deneme{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.login-div {
+    height: 400px;
+    width: 400px;
+    background-color: #4f4dd5;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+#s2 {
+background-image:url("images/resim.jpg");
+}
+
